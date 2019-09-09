@@ -1,0 +1,63 @@
+.footer {
+    display: flex;
+    background-color: black;
+    height: 500px;
+}
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    width: 100%;
+    margin: 50px;
+    margin-top: 20px
+}
+
+.contact-form input{
+    font-size: 20px;
+    margin-top: 10px;
+    width: auto;
+    height: 30px;
+}
+
+.contact-form textarea{
+    font-size: 20px;
+    margin-top: 20px;
+    width: auto;
+    height: 150px;
+}
+
+button {
+    background-color: red;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 30%;
+    height: auto;
+}
+.zoom{
+    display: flex;
+    justify-content: center;
+    transition: transform .2s;
+}
+.zoom:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
+.self-portrait {
+    margin: 30px;
+    border:white 10px solid;
+    border-radius: 50%;
+}
+img { 
+    width: auto;
+    height: 300px; 
+} 
+
+.contact-links img{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 8%;
+    margin-left: 20%;
+    height: 20%;
+    width: auto;
+}

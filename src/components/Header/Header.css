@@ -1,0 +1,30 @@
+.header {
+    background-color: black;
+    height: 300px;
+
+}
+.title{
+  position: relative;
+  top: 40%;  
+  width: 24em;
+  color: white;
+  margin: 0 auto;
+  border-right: 2px solid rgba(255,255,255,.75);
+  font-size: 180%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateY(-50%);    
+}
+.typewriter{
+  animation: typewriter 2s steps(44) .2s 1 normal both,
+             blinkTextCursor 500ms steps(44) infinite normal;
+}
+@keyframes typewriter{
+  from{width: 0;}
+  to{width: 24em;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: rgba(255,255,255,.75);}
+  to{border-right-color: transparent;}
+}

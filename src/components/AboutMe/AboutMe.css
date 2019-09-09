@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Eczar&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    background-color: #F9F871;
+    border-radius: 20%;
+    margin: 8%;
+    padding: 5%;
+}
+.about-me h3 {
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+    margin-bottom: 5px;
+   }
+h3:before,
+h3:after {
+    background-color: black;
+    content: "";
+    display: inline-block;
+    height: 5px;
+    position: relative;
+    vertical-align: middle;
+    width: 20%;
+}
+h3:before {
+    right: 0.5em;
+    margin-left: -50%;
+}
+h3:after {
+    left: 0.5em;
+    margin-right: -50%;
+}
+.about-me p{
+    padding: 20px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+}
+.about-me h2 {
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+    margin-bottom: 50px;
+   }
+h2:before,
+h2:after {
+    background-color: black;
+    content: "";
+    display: inline-block;
+    height: 5px;
+    position: relative;
+    vertical-align: middle;
+    width: 20%;
+}
+h2:before {
+    right: 0.5em;
+    margin-left: -50%;
+}
+h2:after {
+    left: 0.5em;
+    margin-right: -50%;
+}
+
+.about-me-images {
+    font-family: 'Eczar', serif;
+    font-size: 30px;
+    margin: 30px;
+    text-align: center;
+}
+
+.about-me-images img{
+    height: 100px;
+    width: auto;
+    
+}

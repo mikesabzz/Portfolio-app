@@ -1,0 +1,14 @@
+.project-container {
+    display: flex;
+    width: 298px;
+    flex-direction: column;   
+}
+.projects {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+body {
+    background-image: linear-gradient(to right bottom, #031354, #002566, #003777, #004a86, #005c95, #0070a6, #0084b5, #0099c2, #00b4cf, #00cece, #00e6bf, #5ffba5);
+}
