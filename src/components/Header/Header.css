@@ -29,4 +29,9 @@
   from{border-right-color: rgba(255,255,255,.75);}
   to{border-right-color: transparent;}
 }
+@media only screen and (max-width: 600px){
+  body {
+    width: 750px;
+  }
+}
 
