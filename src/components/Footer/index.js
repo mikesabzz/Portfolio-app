@@ -3,7 +3,7 @@ import "./Footer.css"
 
 function Footer () {
     return (
-        <div className="footer">
+        <div id="footer">
             <div>
             <img src="https://imgur.com/Vphx7sS.png" className="self-portrait" alt=""></img>
             </div>

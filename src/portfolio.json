@@ -22,5 +22,11 @@
       "Title": "Sole Search",
       "Desc": "A React front end web app that is also mobile responsive. A collaboration with UX Desiners, to bring the website they designed to life.",
       "URL": "http://sole-search.surge.sh/"
+    },
+    {
+      "imgURL": "https://imgur.com/msDunON.png",
+      "Title": "Tinder Friendly",
+      "Desc": "A full-stack CRUD app with login and sign up functionality using React and Node.js that allows you to create, update and delete your profile. This is an App that allows you to talk about yourself, see what other users say about themselves, and see who's in your location and meet people.",
+      "URL": "http://express-tinder-clone-app.surge.sh/"
     }
    ]

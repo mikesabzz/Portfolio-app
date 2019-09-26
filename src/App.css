@@ -1,4 +1,7 @@
-.project-container {
+html {
+    scroll-behavior: smooth;
+}
+#project-container {
     display: flex;
     width: 298px;
     flex-direction: column;   
@@ -10,5 +13,5 @@
     margin-bottom: 10%;
 }
 body {
-    background-image: linear-gradient(to right bottom, #031354, #002566, #003777, #004a86, #005c95, #0070a6, #0084b5, #0099c2, #00b4cf, #00cece, #00e6bf, #5ffba5);
+    background-color: #DADDE2;
 }

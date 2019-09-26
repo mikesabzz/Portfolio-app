@@ -1,7 +1,8 @@
-.footer {
+#footer {
     display: flex;
-    background-color: black;
+    background-color: rgb(54, 53, 57);
     height: 500px;
+    box-shadow: 0 -10px 5px #888888;
 }
 .contact-form{
     display: flex;
@@ -55,9 +56,22 @@ img {
 
 .contact-links img{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-top: 8%;
-    margin-left: 20%;
-    height: 20%;
+    height: 30%;
     width: auto;
+    margin-top: 60px;
+}
+
+.contact-links img:hover{
+    height: 40%;
+}
+
+.contact-links {
+    justify-content: space-between;
+    width: 80px;
+    margin-left: 20%;
+    padding-bottom: 0;
+    margin-top: 40px;
+    margin-bottom: 100px;
 }

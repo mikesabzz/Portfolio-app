@@ -38,7 +38,7 @@ class App extends React.Component {
       <Header></Header>
       <AboutMe></AboutMe>
       <div className="projects">
-        <div className="project-container">{this.renderProjects()}</div>
+        <div id="project-container">{this.renderProjects()}</div>
       </div>
       <Footer></Footer>
       </div>
