@@ -16,8 +16,8 @@ function Footer () {
           </div>
             </form>
             <div className="contact-links">
-            <a href="https://www.linkedin.com/in/michael-sabzevari-539805131/"><img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt=""></img></a>
-            <a href="https://github.com/mikesabzz"><img src="https://icon-library.net/images/github-icon-png/github-icon-png-29.jpg" alt=""></img></a>
+            <a href="https://www.linkedin.com/in/michael-sabzevari-539805131/">LinkedIn</a>
+            <a href="https://github.com/mikesabzz">GitHub</a>
             </div>
            
         </div>

@@ -1,20 +1,23 @@
 .navbar {
     display: flex;
     justify-content: space-around;
-    padding-bottom: 20px;
-    margin-bottom: 0;
     text-decoration: none;
+    padding-top: 10vh;
 }
 a:link {
     text-decoration: none;
     color: white;
     font-weight: bold;
   }
-a {
+.navbar a {
     color: white;
+    border: white 2px solid;
+    padding: 15px;
+    border-radius: 30px;
   }
-a:hover {
-    background-color: #555;
-    color: white;
+.navbar a:hover {
+    border: greenyellow 2px solid;
+    color: greenyellow;
+    padding: 15px;
+    border-radius: 30px;
   }
-  

@@ -53,27 +53,24 @@ img {
     width: auto;
     height: 300px; 
 } 
-
-.contact-links img{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 8%;
-    height: 30%;
-    width: auto;
-    margin-top: 60px;
-}
-
-.contact-links img:hover{
-    height: 40%;
-}
-
+.contact-links a{
+    border: white 2px solid;
+    color: white;
+    padding: 8px;
+    border-radius: 30px;
+} 
+.contact-links a:hover{
+    border: greenyellow 2px solid;
+    color: greenyellow;
+    padding: 8px;
+    border-radius: 30px;
+} 
 .contact-links {
-    justify-content: space-between;
-    width: 80px;
-    margin-left: 20%;
-    padding-bottom: 0;
-    margin-top: 40px;
-    margin-bottom: 100px;
+    margin: 1px auto;
+    font-size: 3vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
 }
 @media only screen and (max-width: 600px){
     body {

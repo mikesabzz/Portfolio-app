@@ -1,17 +1,17 @@
 .header {
     background-color:rgb(54, 53, 57);
-    height: 145px;
+    height: 400px;
     padding-top: 50px;
     box-shadow: 0 10px 5px #888888;
 }
 .title{
   position: relative;
-  top: 40%;  
+  top: 50%;  
   width: 24em;
   color: white;
   margin: 0 auto;
   border-right: 2px solid rgba(255,255,255,.75);
-  font-size: 120%;
+  font-size: 180%;
   text-align: center;
   white-space: nowrap;
   overflow: hidden;

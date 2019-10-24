@@ -6,9 +6,12 @@
     box-shadow: 0 10px 5px #888888;
     background-color: #F9F871;
 }
+.projects-each > div {
+    flex: 1;
+}
 .image-wrapper img {
     display: flex;
-    width: 500px;
+    width: 400px;
     height: auto;
     padding: 15px;
     margin-top: 20px;
@@ -23,7 +26,7 @@
     font-family: 'Kanit', sans-serif;
     color: black;
 }
-.projects>div {
+.projects > div {
     flex: 0 50%;
     box-sizing:border-box;
     display: flex;
@@ -35,6 +38,7 @@
     margin-bottom: 20px;
     font-weight: bold;
     font-size: 30px;
+    color: black;
 }
 .project-link a{
     background-color: #F9F871;
@@ -42,8 +46,7 @@
     text-decoration: none;
 } 
 .project-title:hover{
-    background-color: #555;
-    color: white; 
+    color: rgb(45, 76, 175);
 }
 @media only screen and (max-width: 600px){
     .projects-each {
