@@ -33,5 +33,12 @@
       "Desc": "A full-stack CRUD app with login and sign up functionality using React and Node.js that allows you to create, update and delete your profile. This is an App that allows you to talk about yourself, see what other users say about themselves, and see who's in your location and meet people.",
       "URL": "http://express-tinder-clone-app.surge.sh/",
       "Code": "https://github.com/mikesabzz/Express-tinder-clone"
+    },
+    {
+      "imgURL": "https://imgur.com/MlF0UBh.png",
+      "Title": "Rocket Shooting Game",
+      "Desc": "Web game using HTML, CSS, and JavaScript that contains colision detection between bullets and enemies, and where player moves around the screen on mousedown and shoots laters on click. Received assistance from Clockwork Chilli's documentations.",
+      "URL": "https://rocket-shooting-game.netlify.com/",
+      "Code": "https://github.com/mikesabzz/rocket-shooting-game"
     }
    ]
