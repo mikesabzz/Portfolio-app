@@ -12,6 +12,7 @@ function Projects(props) {
                     <div className="project-title">{props.title}</div>
                 </a>
                     <div className="project-desc">{props.desc}</div>
+                    <div className="project-code"><a href={props.code}>See My Code</a></div>
                 </div>
             </div>
         </div>

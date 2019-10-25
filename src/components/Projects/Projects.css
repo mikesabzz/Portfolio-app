@@ -48,6 +48,13 @@
 .project-title:hover{
     color: rgb(45, 76, 175);
 }
+.project-code {
+    display: flex;
+    justify-content: center;
+}
+.project-code a:hover{
+    color: rgb(45, 76, 175);
+}
 @media only screen and (max-width: 600px){
     .projects-each {
         width: 530px; 

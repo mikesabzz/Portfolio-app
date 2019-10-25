@@ -18,7 +18,7 @@ class App extends React.Component {
   
   renderProjects = () => {
     return this.state.projectsToDisplay.map((project, index) => {
-      const { imgURL, Title, Desc, URL } = project;
+      const { imgURL, Title, Desc, URL, Code } = project;
       return (
         <Projects
           key={index}
@@ -26,6 +26,7 @@ class App extends React.Component {
           title={Title}
           desc={Desc}
           url={URL}
+          code={Code}
         ></Projects>
       );
     });
