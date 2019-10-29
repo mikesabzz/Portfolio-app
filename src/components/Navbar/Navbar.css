@@ -11,13 +11,11 @@ a:link {
   }
 .navbar a {
     color: white;
-    border: white 2px solid;
     padding: 15px;
     border-radius: 30px;
+    font-size: 5vh;
   }
 .navbar a:hover {
-    border: greenyellow 2px solid;
     color: greenyellow;
     padding: 15px;
-    border-radius: 30px;
   }
