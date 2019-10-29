@@ -1,4 +1,5 @@
 import React from "react";
+import Pdf from "./pdf/Resume.pdf"
 import "./Footer.css"
 
 function Footer () {
@@ -18,6 +19,7 @@ function Footer () {
             <div className="contact-links">
             <a href="https://www.linkedin.com/in/michael-sabzevari-539805131/">LinkedIn</a>
             <a href="https://github.com/mikesabzz">GitHub</a>
+            <a href= {Pdf} >Resumé</a>
             </div>
            
         </div>
