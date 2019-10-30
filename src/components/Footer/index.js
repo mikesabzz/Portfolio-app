@@ -9,6 +9,7 @@ function Footer () {
             <img src="https://imgur.com/Vphx7sS.png" className="self-portrait" alt=""></img>
             </div>
             <form method="POST" action="https://formspree.io/michaelsabzevari@gmail.com">
+            <div id="title">Contact Me</div>
           <div className="contact-form">
                 <input type="name" name="name" placeholder="Your full name" required/>      
                 <input type="email" name="email" placeholder="Your email" required/>

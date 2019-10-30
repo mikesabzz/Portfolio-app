@@ -1,7 +1,14 @@
 #footer {
     display: flex;
-    background-color: rgb(0, 0, 0);
     height: 500px;
+}
+#title {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 6vh;
+    font-weight: 800;
+    text-shadow: 2px 2px 4px #9b9595;
 }
 .contact-form{
     display: flex;
@@ -56,23 +63,22 @@ img {
     height: 300px; 
 } 
 .contact-links a{
-    border: white 2px solid;
     color: white;
     padding: 8px;
     border-radius: 30px;
 } 
 .contact-links a:hover{
-    border: greenyellow 2px solid;
     color: greenyellow;
     padding: 8px;
     border-radius: 30px;
 } 
 .contact-links {
     margin: 1px auto;
-    font-size: 3vh;
+    font-size: 4vh;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
+    text-shadow: 2px 2px 4px #9b9595;
 }
 @media only screen and (max-width: 600px){
     body {
