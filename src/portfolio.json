@@ -1,10 +1,10 @@
 [
     {
-      "imgURL": "https://camo.githubusercontent.com/049ab0966d5ce4f9591bf48974812d269ed18d27/68747470733a2f2f696d6775722e636f6d2f454d4a4753734f2e706e67",
+      "imgURL": "https://imgur.com/7i0hsGl.png",
       "Title": "Hungry Cat",
       "Desc": "A web game that uses HTML, CSS, and JavaScript. Users use the arrow keys to move the cat around, help it catch fishes without getting eaten by the dog.",
-      "URL": "https://mikesabzz.github.io/cat-game/.",
-      "Code": "https://github.com/mikesabzz/cat-game"
+      "URL": "https://hungry-cat.netlify.com",
+      "Code": "https://github.com/mikesabzz/hungry-cat-game"
     },
     {
       "imgURL": "https://camo.githubusercontent.com/3c136bb1a72d3a7fb6bd41770b38c706b0eaca8d/68747470733a2f2f692e696d6775722e636f6d2f597941394e33582e676966",
