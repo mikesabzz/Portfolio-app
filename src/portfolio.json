@@ -47,6 +47,13 @@
       "Desc": "A HTML, CSS, CSS Animation, and JavaScript toy app used for fortune telling and seeking advice. Ask a yes/no question, then it reveals a written answer",
       "URL": "https://js-fortune-teller-ball.netlify.com/",
       "Code": "https://github.com/mikesabzz/js-fortune-ball"
+    },
+    {
+      "imgURL": "https://imgur.com/BVyiOCe.png",
+      "Title": "Balloon Pop",
+      "Desc": "A simple web app exercise using Vanilla JavaScript, DOM, and event handling. Click the balloons to pop them, and must pop 10 balloons to finish the game.",
+      "URL": "https://balloon-pop.netlify.com/",
+      "Code": "https://github.com/mikesabzz/balloon_pop"
     }
 
    ]
