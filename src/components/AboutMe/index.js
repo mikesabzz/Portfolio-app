@@ -7,14 +7,17 @@ function AboutMe() {
           <h3>About Me</h3>
         <p>Software engineer with a background in production and technology. Passionate about media and programming, I solve problems using languages such as JavaScript, React, and other front-end modalities. Constantly building my programming skills through work and personal projects, I thrive when developing new software’s and working on teams where I am pushed as a developer.</p>
         <div className="about-me-images"><h3>Skills</h3>
-          <img src="https://gamesandimpact.org/wp-content/uploads/2014/09/htmlCssJavascriptLogos.png" alt=""></img>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="" />
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt=""></img>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt=""></img>
+          <img src="https://www.brandlabs.us/wp-content/uploads/2016/10/logo-expert-javascript.png" alt=""></img>
+          <img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" alt="" />
+          <img src="https://www.fullstacklabs.co/img/pages/DeveloperProfile/technologyLogos/tech_react.png" alt="" />
+          <img src="https://cdn2.iconfinder.com/data/icons/line-design-database-set-4/21/sql-badge-512.png" alt="" />
+          <img src="https://www.orthanc-server.com/img/Resources/PostgreSQL.png" alt="" />
           <img src="https://images.tutorialedge.net/images/node.png" alt="" />
-          <img src="https://seeklogo.net/wp-content/uploads/2016/07/ruby-vector-logo.png" alt="" />
-          <img src="https://www.fullstacklabs.co/img/technologyLogos/tech_rubyonrails.png" alt="" />
-          <img src="https://i.pinimg.com/originals/be/94/40/be9440842c51103ad232896b8b0f3706.png" alt="" />
-
+          <img src="https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png" alt="" />
+          <img src="https://www.betterwebsites.ca/media/Logo-Ruby.png" alt="" />
+          <img src="https://www.arkasoftwares.com/images/android/rubyonrailsLogo.png" alt="" />
         </div>
       </div>
 
