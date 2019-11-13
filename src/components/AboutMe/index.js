@@ -13,6 +13,7 @@ function AboutMe() {
           <img src="https://images.tutorialedge.net/images/node.png" alt="" />
           <img src="https://seeklogo.net/wp-content/uploads/2016/07/ruby-vector-logo.png" alt="" />
           <img src="https://www.fullstacklabs.co/img/technologyLogos/tech_rubyonrails.png" alt="" />
+          <img src="https://i.pinimg.com/originals/be/94/40/be9440842c51103ad232896b8b0f3706.png" alt="" />
 
         </div>
       </div>
