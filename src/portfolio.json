@@ -14,7 +14,7 @@
       "Code": "https://github.com/mikesabzz/Picasso-Museum-React-App"
     },
     {
-      "imgURL": "https://imgur.com/JWiSXjE.png",
+      "imgURL": "https://imgur.com/w0ifT20.gif",
       "Title": "RoutineMe",
       "Desc": "This is a full-stack CRUD app with login and sign up functionality using React and Node.js that allows you to create, update and delete your own routines and compare them to others. Become a user and store your own routine data. React, Node.js, JavaScript, HTML, CSS/Flexbox",
       "URL": "http://routine-me.surge.sh/",
@@ -54,6 +54,13 @@
       "Desc": "A simple web app exercise using Vanilla JavaScript, DOM, and event handling. Click the balloons to pop them, and must pop 10 balloons to finish the game.",
       "URL": "https://balloon-pop.netlify.com/",
       "Code": "https://github.com/mikesabzz/balloon_pop"
+    },
+    {
+      "imgURL": "https://imgur.com/0xWSDPl.gif",
+      "Title": "React News App",
+      "Desc": "A front-end react app with Top news API's on Wall Street, US Business, Bitcoin, and TechCrunch. Contains react-router-dom and styled with bootstrap.",
+      "URL": "http://news-app-ms.surge.sh/",
+      "Code": "https://github.com/mikesabzz/react-news-app"
     }
 
    ]
