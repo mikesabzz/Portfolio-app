@@ -22,3 +22,10 @@ body {
     background-attachment: fixed;
     background-image: url('./wallpaper.jpg');
 }
+@media only screen and (max-width: 600px) {
+    #project-container {
+        display: flex;
+        flex-direction: column;
+    }
+  }
+
