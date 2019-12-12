@@ -1,5 +1,6 @@
 import React from "react";
 import Pdf from "./img/Resume.jpg"
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "./Footer.css"
 
 function Footer () {
@@ -14,7 +15,7 @@ function Footer () {
                 <input type="name" name="name" placeholder="Your full name" required/>      
                 <input type="email" name="email" placeholder="Your email" required/>
                 <textarea name="message" placeholder="Message" required></textarea>
-                <div className="zoom"><button type="submit">Send</button></div>
+                <div className="zoom"><button className="btn btn-danger mt-2" type="submit">Send</button></div>
           </div>
             </form>
             <div className="contact-links">

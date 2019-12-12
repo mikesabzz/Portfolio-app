@@ -32,17 +32,6 @@
     width: auto;
     height: 150px;
 }
-
-button {
-    background-color: rgba(80, 26, 26, 0.851);
-    border: solid 2px rgba(80, 26, 26, 0.851) ;
-    color: white;
-    margin-top: 20px;
-    font-size: 20px;
-    width: 30%;
-    height: auto;
-    font-weight: bold;
-}
 .zoom{
     display: flex;
     justify-content: center;
