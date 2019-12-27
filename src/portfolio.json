@@ -72,9 +72,8 @@
     {
       "imgURL": "https://imgur.com/ZKqy96p.gif",
       "Title": "Lyrics and iTunes App",
-      "Desc": "A front end react applications that uses two third-party-API's, a Lyrics and an iTunes API, that allows you to search for and artist and song title, and then the lyrics and iTunes preview audio (if available) will appear. This app is styled with Flexbox and Bootstrap.",
+      "Desc": "A front end react applications that uses two third-party-API's (Lyrics and iTunes), which allows you to search for any artists and song titles, then presents the lyrics and iTunes preview audio (if available), of the searched song. This app has been styled with Flexbox and Bootstrap.",
       "URL": "http://lyricsfinder.surge.sh/",
       "Code": "https://github.com/mikesabzz/lyrics-itune-app"
     }
-
    ]
