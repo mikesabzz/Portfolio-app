@@ -55,7 +55,26 @@
 }
 @media only screen and (max-width: 600px){
     .projects-each {
-        width: 60vh; 
+        width: 100vh;
+        height: 140vh; 
+        margin: 10%;
+    }
+    .project-info {
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px;
+        width: 730px;
+        height: auto;
+        padding: 3px;
+        font-size: 30px;
+        font-family: 'Kanit', sans-serif;
+        color: black;
+    }
+    .image-wrapper img {
+        display: flex;
+        height: 85vh;
+        padding: 20px;
+        margin-top: 20px;
     }
     
 }

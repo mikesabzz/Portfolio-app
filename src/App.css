@@ -18,14 +18,16 @@ html {
     flex: 1;
 }
 body {
-    background-position:center;
+    background-image: radial-gradient(circle, #010921, #021a3d, #00275b, #00357b, #00439c, #0254b1, #0266c7, #0078dc, #1e91e6, #45a9ed, #6bc0f2, #92d6f7);
     background-attachment: fixed;
-    background-image: radial-gradient(circle, #056c83, #075567, #073f4c, #052a33, #00171c);
 }  
 @media only screen and (max-width: 600px) {
     #project-container {
         display: flex;
         flex-direction: column;
+    }
+    .projects {
+        margin-right: 80%;
     }
   }
 
