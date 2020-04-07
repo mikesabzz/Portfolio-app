@@ -5,66 +5,22 @@
 #about-me {
     display: flex;
     flex-direction: column;
-    background-color: rgb(249, 249, 113, 0.8);
-    font-size: 20px;
-    margin: 5%;
+    background-color: rgb(8, 163, 184);
+    font-size: 3vh;
+    margin-top: 5%;
     font-family: 'Kanit', sans-serif;
+    color: white;
     padding: 60px;
 }
 #about-me h3 {
     overflow: hidden;
     text-align: center;
-    font-family: 'Source Code Pro', monospace;
-    font-size: 30px;
-    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 2pc;
+    margin-bottom: 5%;
    }
-h3:before,
-h3:after {
-    background-color: black;
-    content: "";
-    display: inline-block;
-    height: 5px;
-    position: relative;
-    vertical-align: middle;
-    width: 20%;
-}
-h3:before {
-    right: 0.5em;
-    margin-left: -50%;
-}
-h3:after {
-    left: 0.5em;
-    margin-right: -50%;
-}
-
-.about-me h3 {
-    overflow: hidden;
-    text-align: center;
-    font-family: 'Source Code Pro', monospace;
-    font-size: 40px;
-    margin-bottom: 50px;
-   }
-h3:before,
-h3:after {
-    background-color: black;
-    content: "";
-    display: inline-block;
-    height: 5px;
-    position: relative;
-    vertical-align: middle;
-    width: 20%;
-}
-h3:before {
-    right: 0.5em;
-    margin-left: -50%;
-}
-h3:after {
-    left: 0.5em;
-    margin-right: -50%;
-}
 
 .about-me-images h3{
-    font-family: 'Source Code Pro', monospace;
     font-size: 20px;
     margin: 30px;
     text-align: center;
@@ -75,4 +31,5 @@ h3:after {
     width: auto;
     margin-top: 20px; 
     margin-left: 15px;  
+    background-color: white;
 }

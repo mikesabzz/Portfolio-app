@@ -1,21 +1,13 @@
-.navbar {
-    display: flex;
-    justify-content: space-around;
-    text-decoration: none;
-    padding-top: 10vh;
+.navbar{
+  border-top: rgb(8, 163, 184) 1pc solid;
 }
-a:link {
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-  }
-.navbar a {
-    color: white;
-    padding: 15px;
-    border-radius: 30px;
-    font-size: 5vh;
-  }
+.nav-link {
+  color: black;
+  margin: auto;
+  text-decoration: none;
+  font-weight: bold;
+}
 .navbar a:hover {
-    color: greenyellow;
-    padding: 15px;
-  }
+    background-color: rgb(8, 163, 184);
+    color: white;
+}

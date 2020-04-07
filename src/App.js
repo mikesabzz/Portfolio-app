@@ -3,13 +3,17 @@ import allProjects from '../src/portfolio.json';
 import Projects from './components/Projects';
 import "./App.css";
 import Header from './components/Header'
+import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import AboutMe from "./components/AboutMe"
 
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { projects: allProjects, projectsToDisplay: [] };
+    this.state = { 
+      projects: allProjects, 
+      projectsToDisplay: []
+     };
   }
 
   componentDidMount() {
@@ -36,12 +40,13 @@ class App extends React.Component {
   render() {
     return (
       <div>
-      <Header></Header>
-      <AboutMe></AboutMe>
-      <div className="projects">
-        <div id="project-container">{this.renderProjects()}</div>
-      </div>
-      <Footer></Footer>
+        <Navbar />
+        <Header />
+        <AboutMe />
+        <div className="projects">
+          <div id="project-container">{this.renderProjects()}</div>
+        </div>
+        <Footer />
       </div>
     );
   }
