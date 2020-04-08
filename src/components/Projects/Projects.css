@@ -40,11 +40,11 @@
 }
 .project-link a{
     color: black;
-    text-decoration: none;
 } 
 .project-title:hover{
     color: white;
     background-color: #4D9DEC;
+    text-decoration: underline;
 }
 .project-code {
     display: flex;
