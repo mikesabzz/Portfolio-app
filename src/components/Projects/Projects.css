@@ -30,7 +30,7 @@
     justify-content: space-evenly;
 }
 .project-title{
-    border-top: solid 0.5pc rgb(8, 163, 184);
+    border-top: solid 0.5pc #4D9DEC;
     display: flex;
     font-weight: bold;
     font-size: 30px;
@@ -42,7 +42,7 @@
 } 
 .project-title:hover{
     color: white;
-    background-color: rgb(8, 163, 184);
+    background-color: #4D9DEC;
 }
 .project-code {
     display: flex;

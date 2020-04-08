@@ -1,5 +1,5 @@
 .navbar{
-  border-top: rgb(8, 163, 184) 1pc solid;
+  border-top: #4D9DEC 1pc solid;
 }
 .nav-link {
   color: black;
@@ -7,6 +7,6 @@
   font-weight: bold;
 }
 .navbar a:hover {
-    background-color: rgb(8, 163, 184);
+    background-color: #4D9DEC;
     color: white;
 }

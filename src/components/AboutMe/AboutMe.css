@@ -5,7 +5,7 @@
 #about-me {
     display: flex;
     flex-direction: row;
-    background-color: rgb(8, 163, 184);
+    background-color: #4D9DEC;
     font-size: 3vh;
     margin-top: 5%;
     font-weight: bold;
