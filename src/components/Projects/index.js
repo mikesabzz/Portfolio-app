@@ -12,7 +12,7 @@ function Projects(props) {
                 <div className="project-link"><a href={props.url} alt="Loading...">
                 </a>
                     <div className="project-desc">{props.desc}</div>
-                    <div className="project-code"><a href={props.code}>See My Code</a></div>
+                    <div className="project-code"><a target="_blank" href={props.code}>See My Code</a></div>
                 </div>
             </div>
         </div>

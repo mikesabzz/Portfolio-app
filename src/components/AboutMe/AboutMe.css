@@ -11,6 +11,8 @@
     font-weight: bold;
     color: white;
     padding: 60px;
+    padding-top: 30px;
+    border-top: 2pc solid white;
 }
 #about-me h3 {
     overflow: hidden;

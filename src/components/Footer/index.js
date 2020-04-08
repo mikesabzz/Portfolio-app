@@ -17,8 +17,8 @@ function Footer () {
           </div>
             </form>
             <div className="contact-links">
-            <span><img src="https://qph.fs.quoracdn.net/main-qimg-aebe52c5836835593474dc349266566c" /><a href="https://www.linkedin.com/in/michael-sabzevari-539805131/">LinkedIn</a></span>
-            <span><img src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png" /><a href="https://github.com/mikesabzz">GitHub</a></span>
+            <span><img src="https://qph.fs.quoracdn.net/main-qimg-aebe52c5836835593474dc349266566c" /><a target="_blank" href="https://www.linkedin.com/in/michael-sabzevari-539805131/">LinkedIn</a></span>
+            <span><img src="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png" /><a target="_blank" href="https://github.com/mikesabzz">GitHub</a></span>
             <span><img src="https://mycvdesigner.com/wp-content/uploads/2019/12/why-need-professional-cv-800px-1.png" /><a target="_blank" href={Pdf}>Resumé</a></span>
             </div>
            

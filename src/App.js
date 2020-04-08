@@ -39,14 +39,20 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
-        <Navbar />
-        <Header />
-        <AboutMe />
-        <div className="projects">
-          <div id="project-container">{this.renderProjects()}</div>
+      <div className="html-body">
+        <div className="page-body">
+          <Navbar />
+          <Header />
         </div>
-        <Footer />
+        <div className="about-me-body">
+          <AboutMe />
+        </div>
+        <div className="projects-body">
+          <div className="projects">
+            <div id="project-container">{this.renderProjects()}</div>
+          </div>
+        </div>
+          <Footer />
       </div>
     );
   }

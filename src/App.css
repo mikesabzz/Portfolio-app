@@ -19,7 +19,29 @@ html {
     margin-bottom: 10%;
     flex: 1;
 }
-
+.page-body {
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    margin: 2pc;
+    background-color: white;
+}
+.html-body {
+    padding-top: 2pc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to right top, #052d55, #15406f, #23548a, #3069a7, #3d7fc4, #3491d7, #25a4ea, #00b7fb, #00c9fa, #00d7de, #00e0a8, #1be462);
+}
+.about-me-body {
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    margin: 2pc;
+    background-color: white;
+}
+.projects-body {
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    margin: 2pc;
+    background-color: white;
+    padding-top: 1ch;
+    padding-bottom: .5pc;
+}
 @media only screen and (max-width: 600px) {
     #project-container {
         display: flex;

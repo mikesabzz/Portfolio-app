@@ -2,6 +2,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
 }
 .projects-each > div {
     flex: 1;
@@ -32,6 +33,7 @@
 .project-title{
     border-top: solid 0.5pc #4D9DEC;
     display: flex;
+    justify-content: center;
     font-weight: bold;
     font-size: 30px;
     color: black;
@@ -49,7 +51,9 @@
     justify-content: center;
 }
 .project-code a:hover{
-    color: rgb(45, 76, 175);
+    background-color: #4D9DEC;
+    color: white;
+    text-decoration: none;
 }
 @media only screen and (max-width: 600px){
     .projects-each {
