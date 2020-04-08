@@ -6,9 +6,6 @@ import "./Footer.css"
 function Footer () {
     return (
         <div id="footer">
-            <div>
-            <img src="https://imgur.com/Vphx7sS.png" className="self-portrait" alt=""></img>
-            </div>
             <form method="POST" action="https://formspree.io/michaelsabzevari@gmail.com">
             <div id="title">Contact Me</div>
           <div className="contact-form">

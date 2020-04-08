@@ -44,15 +44,7 @@
     -webkit-transform: scale(1.2); /* Safari 3-8 */
     transform: scale(1.2);  
 } 
-.self-portrait {
-    margin: 30px;
-    border:white 10px solid;
-    border-radius: 50%;
-}
-img { 
-    width: auto;
-    height: 300px; 
-} 
+
 .contact-links a{
     color: white;
     padding: 8px;

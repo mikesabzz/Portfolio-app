@@ -4,11 +4,11 @@
 
 #about-me {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: rgb(8, 163, 184);
     font-size: 3vh;
     margin-top: 5%;
-    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
     color: white;
     padding: 60px;
 }
@@ -16,7 +16,7 @@
     overflow: hidden;
     text-align: center;
     font-weight: bold;
-    font-size: 2pc;
+    font-size: 2.5pc;
     margin-bottom: 5%;
    }
 
@@ -27,9 +27,14 @@
 }
 
 .about-me-images img{
-    height: 100px;
-    width: auto;
-    margin-top: 20px; 
-    margin-left: 15px;  
-    background-color: white;
+    height: 6pc;
+    padding: 10px;
+    border-radius: 1em/.5em; 
+    margin: 1rem;
+    background-color: rgba(255, 255, 255, 0.733);
+}
+#self-portrait { 
+    margin: auto;
+    border: .5pc solid white;
+    border-radius: 50%;
 }
