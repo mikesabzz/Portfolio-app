@@ -9,14 +9,11 @@ html {
     grid-gap: 20px;
     grid-template-columns: 1fr 1fr;
     width: 10%;
-    justify-items: center;
-    align-content: center;
 }
 .projects {
     display: flex;
-    justify-content: center;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    justify-content: space-evenly;
+    margin: 10%;
     flex: 1;
 }
 .page-body {
@@ -37,7 +34,7 @@ html {
 }
 .projects-body {
     box-shadow: 0 0 10px rgb(0, 0, 0);
-    margin: 2pc;
+    margin: 5pc;
     background-color: white;
     padding-top: 1ch;
     padding-bottom: .5pc;

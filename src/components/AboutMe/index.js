@@ -16,6 +16,7 @@ function AboutMe() {
           <img src="https://www.fullstacklabs.co/img/pages/DeveloperProfile/technologyLogos/tech_react.png" alt="" />
           <img src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png" alt="" />
           <img src="https://www.orthanc-server.com/img/Resources/PostgreSQL.png" alt="" />
+          <img src="https://www.pngkit.com/png/full/383-3838914_mongo-db-design-mongodb-logo-mongodb.png" alt="" />
           <img src="https://images.tutorialedge.net/images/node.png" alt="" />
           <img src="https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png" alt="" />
           <img src="https://fuzati.com/wp-content/uploads/2016/12/Ruby-Logo.png" alt="" />

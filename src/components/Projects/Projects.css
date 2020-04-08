@@ -1,8 +1,9 @@
 .projects-each {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     box-shadow: 0 0 5px rgb(0, 0, 0);
+    margin: 20px;
+    background-color: white;
 }
 .projects-each > div {
     flex: 1;
@@ -11,7 +12,6 @@
     display: flex;
     height: 40vh;
     width: 100%;
-    padding: 15px;
     margin-top: 20px;
 }
 .project-info {
