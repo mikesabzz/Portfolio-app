@@ -39,13 +39,17 @@ html {
     padding-top: 1ch;
     padding-bottom: .5pc;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
     #project-container {
         display: flex;
         flex-direction: column;
     }
+    .html-body {
+        width: 114vh;
+    }
+    
     .projects {
-        margin-right: 80%;
+        margin-right: 120pc;
     }
   }
 
