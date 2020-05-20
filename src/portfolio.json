@@ -75,5 +75,12 @@
       "Desc": "A front end react applications that uses two third-party-API's (Lyrics and iTunes), which allows you to search for any artists and song titles, then presents the lyrics and iTunes preview audio (if available), of the searched song. This app has been styled with Flexbox and Bootstrap.",
       "URL": "http://lyricsfinder.surge.sh/",
       "Code": "https://github.com/mikesabzz/lyrics-itune-app"
+    },
+    {
+      "imgURL": "https://imgur.com/ZsU5jCD.png",
+      "Title": "Twitter Clone",
+      "Desc": "A fullstack, remake of Twitter with ExpressJS, SQL, and React. PassportJS is used to build out the API that provides authentication functionality. Also has create, read, update, and delete functionalities. Includes uploading images, made with multer and stored in Cloudinary. Styled with Bootstrap, Flexbox, and CSS Animations.",
+      "URL": "https://twitter-clone-by-sabz.surge.sh",
+      "Code": "https://github.com/mikesabzz/twitter-clone"
     }
    ]
