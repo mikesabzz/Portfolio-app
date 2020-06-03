@@ -35,13 +35,6 @@
       "Code": "https://github.com/mikesabzz/Express-tinder-clone"
     },
     {
-      "imgURL": "https://imgur.com/MlF0UBh.png",
-      "Title": "Rocket Shooting Game",
-      "Desc": "Web game using HTML, CSS, and JavaScript that contains colision detection between bullets and enemies, and where player moves around the screen on mousedown and shoots laters on click. Received assistance from Clockwork Chilli's documentations.",
-      "URL": "https://rocket-shooting-game.netlify.com/",
-      "Code": "https://github.com/mikesabzz/rocket-shooting-game"
-    },
-    {
       "imgURL": "https://i.pinimg.com/originals/08/ef/75/08ef75cf7a83dcf8a2ff05a8a984e39c.gif",
       "Title": "Magic 8 Ball",
       "Desc": "A HTML, CSS, CSS Animation, and JavaScript toy app used for fortune telling and seeking advice. Ask a yes/no question, then it reveals a written answer",
