@@ -1,5 +1,5 @@
 import React from "react";
-import Pdf from "./img/2020_Resume.jpg";
+import Pdf from "./img/Michael_Sabzevari_Resume.png";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./Footer.css"
 
