@@ -9,18 +9,23 @@ function AboutMe() {
         <h3>About Me</h3>
         <p>Software engineer with a background in production and technology. Passionate about media and programming, I solve problems using languages such as JavaScript, React, and other front-end modalities. Constantly building my programming skills through work and personal projects, I thrive when developing new software’s and working on teams where I am pushed as a developer.</p>
           <h3>Skills</h3>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt=""></img>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt=""></img>
-          <img src="https://www.brandlabs.us/wp-content/uploads/2016/10/logo-expert-javascript.png" alt=""></img>
-          <img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" alt="" />
-          <img src="https://www.fullstacklabs.co/img/pages/DeveloperProfile/technologyLogos/tech_react.png" alt="" />
-          <img src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png" alt="" />
-          <img src="https://www.orthanc-server.com/img/Resources/PostgreSQL.png" alt="" />
-          <img src="https://www.pngkit.com/png/full/383-3838914_mongo-db-design-mongodb-logo-mongodb.png" alt="" />
-          <img src="https://images.tutorialedge.net/images/node.png" alt="" />
-          <img src="https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png" alt="" />
-          <img src="https://fuzati.com/wp-content/uploads/2016/12/Ruby-Logo.png" alt="" />
-          <img src="https://www.arkasoftwares.com/images/android/rubyonrailsLogo.png" alt="" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5"></img>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS"></img>
+          <img src="https://www.brandlabs.us/wp-content/uploads/2016/10/logo-expert-javascript.png" alt="JavaScript"></img>
+          <img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" alt="BootStrap" />
+          <img src="https://www.fullstacklabs.co/img/pages/DeveloperProfile/technologyLogos/tech_react.png" alt="React" />
+          <img src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png" alt="jQuery" />
+          <img src="https://www.orthanc-server.com/img/Resources/PostgreSQL.png" alt="PostgreSQL" />
+          <img src="https://www.pngkit.com/png/full/383-3838914_mongo-db-design-mongodb-logo-mongodb.png" alt="MongoDB" />
+          <img src="https://images.tutorialedge.net/images/node.png" alt="node.js" />
+          <img src="https://www.resourcifi.com/wp-content/themes/resourcifi-child/img/express-min.png" alt="Express.js" />
+          <img src="https://fuzati.com/wp-content/uploads/2016/12/Ruby-Logo.png" alt="Ruby" />
+          <img src="https://www.arkasoftwares.com/images/android/rubyonrailsLogo.png" alt="Rails" />
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java"></img>
+          <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/104961974/original/115a26d1dd15eb9dc31b93fc1032b8ce9c1d3e3c/develop-web-services-from-spring-framework.png" alt="Spring" />
+          <img src="https://lh3.googleusercontent.com/proxy/RuOLwzUM_9SegoLfj2dmr861NeHvi5Uk1KS5ZZqmlvpqGWxrhGJZqj61wuEw64bQsbRyVsHsKzfEeXYsoEJ3_gKnWljOVCu0KiFyTZWfY4-k-UxF7UK0SqX7WgghwZYsVpXrF0YDbmi6_qv-i3sx8lgnHN5_VHgHfiQy78zge-rePAQf4QCS7fa2_fEqGxJrNVcnU91Q6r-YspAe4miTWuITkb10NycTaVM197xDXN9NEt0XJGsbtHYSH6QDLIk5TX8w2zgtQF1tMzqDWrO_VpZG29PcUqP_9OGqHEZRr-0IG4vBe4Jex-Fe-vJdR9pbDDIhWzeGvg" alt="MariaDb" />
+          <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="MySQL" />
+          <img src="https://miro.medium.com/max/800/1*YH-TQKYTpl65RkARD1yJMQ.png" alt="Angular" />
         </div>
       </div>
 
