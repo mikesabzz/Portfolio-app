@@ -6,6 +6,7 @@ import Header from './components/Header'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import AboutMe from "./components/AboutMe"
+import DocumentTitle from 'react-document-title';
 
 class App extends React.Component {
   constructor(props) {
@@ -39,6 +40,7 @@ class App extends React.Component {
 
   render() {
     return (
+      <DocumentTitle title="Michael Sabzevari">
       <div className="html-body">
         <div className="page-body">
           <Navbar />
@@ -53,7 +55,7 @@ class App extends React.Component {
           </div>
         </div>
           <Footer />
-      </div>
+      </div></DocumentTitle>
     );
   }
 }
