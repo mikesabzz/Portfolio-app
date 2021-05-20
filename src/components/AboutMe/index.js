@@ -1,5 +1,7 @@
 import React from "react";
 import './AboutMe.css';
+import Unix from "../images/unix.jpg";
+import Agile from "../images/Agile.png";
 
 function AboutMe() {
     return (
@@ -13,7 +15,7 @@ function AboutMe() {
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS"></img>
           <img src="https://www.brandlabs.us/wp-content/uploads/2016/10/logo-expert-javascript.png" alt="JavaScript"></img>
           <img src="https://fuzati.com/wp-content/uploads/2016/12/Bootstrap-Logo.png" alt="BootStrap" />
-          <img src="https://www.fullstacklabs.co/img/pages/DeveloperProfile/technologyLogos/tech_react.png" alt="React" />
+          <img src="https://i.pinimg.com/originals/f3/47/70/f34770503b90f26ea389f557500ff825.png" alt="React" />
           <img src="https://www.programmingscripts.com/wp-content/uploads/2016/01/jquery-icon.png" alt="jQuery" />
           <img src="https://www.orthanc-server.com/img/Resources/PostgreSQL.png" alt="PostgreSQL" />
           <img src="https://www.pngkit.com/png/full/383-3838914_mongo-db-design-mongodb-logo-mongodb.png" alt="MongoDB" />
@@ -23,9 +25,11 @@ function AboutMe() {
           <img src="https://www.arkasoftwares.com/images/android/rubyonrailsLogo.png" alt="Rails" />
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java"></img>
           <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/104961974/original/115a26d1dd15eb9dc31b93fc1032b8ce9c1d3e3c/develop-web-services-from-spring-framework.png" alt="Spring" />
-          <img src="https://lh3.googleusercontent.com/proxy/RuOLwzUM_9SegoLfj2dmr861NeHvi5Uk1KS5ZZqmlvpqGWxrhGJZqj61wuEw64bQsbRyVsHsKzfEeXYsoEJ3_gKnWljOVCu0KiFyTZWfY4-k-UxF7UK0SqX7WgghwZYsVpXrF0YDbmi6_qv-i3sx8lgnHN5_VHgHfiQy78zge-rePAQf4QCS7fa2_fEqGxJrNVcnU91Q6r-YspAe4miTWuITkb10NycTaVM197xDXN9NEt0XJGsbtHYSH6QDLIk5TX8w2zgtQF1tMzqDWrO_VpZG29PcUqP_9OGqHEZRr-0IG4vBe4Jex-Fe-vJdR9pbDDIhWzeGvg" alt="MariaDb" />
+          <img src="https://severalnines.com/sites/default/files/mariadb_logo_6.png" alt="MariaDb" />
           <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" alt="MySQL" />
           <img src="https://miro.medium.com/max/800/1*YH-TQKYTpl65RkARD1yJMQ.png" alt="Angular" />
+          <img src={Unix} alt="Unix" />
+          <img src={Agile} alt="Agile" />
         </div>
       </div>
 
