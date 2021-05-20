@@ -11,6 +11,25 @@
     color: white;
     font-size: 2pc;
 }
+#email {
+    margin-top: 40px;
+    width: 50%;
+    padding: 10px;
+    /* text-align: center; */
+    color: white;
+    font-size: 2pc;
+}
+.mobilesOnly {
+    color: white;
+    padding: 10px;
+    font-size: 3vh;
+    font-weight: bold;
+} 
+.mobilesOnly:hover{
+    color: greenyellow;
+    border-radius: 30px;
+    text-decoration: none;
+} 
 .contact-form{
     display: flex;
     flex-direction: column;
@@ -27,6 +46,9 @@
     justify-content: center;
     transition: transform .2s;
 } 
+.zoom a {
+    color: white;
+}
 .zoom:hover {
     -ms-transform: scale(1.2); /* IE 9 */
     -webkit-transform: scale(1.2); /* Safari 3-8 */
