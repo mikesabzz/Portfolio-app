@@ -1,20 +1,9 @@
 {
-  "files": {
-    "main.css": "/static/css/main.b4161f7a.chunk.css",
-    "main.js": "/static/js/main.d7ac4a22.chunk.js",
-    "main.js.map": "/static/js/main.d7ac4a22.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.26dad3e4.js",
-    "runtime~main.js.map": "/static/js/runtime~main.26dad3e4.js.map",
-    "static/css/2.83ace7dd.chunk.css": "/static/css/2.83ace7dd.chunk.css",
-    "static/js/2.a0d8a2f4.chunk.js": "/static/js/2.a0d8a2f4.chunk.js",
-    "static/js/2.a0d8a2f4.chunk.js.map": "/static/js/2.a0d8a2f4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ef2cf626fb4f0ab31311310b1cc8e1dd.js": "/precache-manifest.ef2cf626fb4f0ab31311310b1cc8e1dd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.83ace7dd.chunk.css.map": "/static/css/2.83ace7dd.chunk.css.map",
-    "static/css/main.b4161f7a.chunk.css.map": "/static/css/main.b4161f7a.chunk.css.map",
-    "static/media/Agile.png": "/static/media/Agile.2c083e75.png",
-    "static/media/Header.css": "/static/media/headerimg.ef3672ea.JPG",
-    "static/media/resume.jpg": "/static/media/resume.21c1b0ac.jpg"
-  }
+  "main.css": "static/css/main.4a4eb373.css",
+  "main.css.map": "static/css/main.4a4eb373.css.map",
+  "main.js": "static/js/main.ee4dc4f7.js",
+  "main.js.map": "static/js/main.ee4dc4f7.js.map",
+  "static/media/Agile.png": "static/media/Agile.2c083e75.png",
+  "static/media/headerimg.JPG": "static/media/headerimg.ef3672ea.JPG",
+  "static/media/resume.jpg": "static/media/resume.21c1b0ac.jpg"
 }

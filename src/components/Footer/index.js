@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "./img/resume.jpg";
+import Resume from "./img/resume.png";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./Footer.css"
 import { FiMail } from 'react-icons/fi';
