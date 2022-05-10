@@ -1655,10 +1655,10 @@
     "lodash.memoize" "^4.1.2"
     "lodash.uniq" "^4.5.0"
 
-"caniuse-db@^1.0.30000529", "caniuse-db@^1.0.30000634", "caniuse-db@^1.0.30000639":
-  "integrity" "sha512-xEwjPGIiUynB3jdYknZdPZNDsHVtuQ7W2vx2JOOou7QUNpN2rIk+T56tSb4rGtXIDM7HG5v0Z1OZ6MdyE51LBg=="
-  "resolved" "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001230.tgz"
-  "version" "1.0.30001230"
+"caniuse-db@^1.0.30000529", "caniuse-db@^1.0.30000634", "caniuse-db@^1.0.30000639", "caniuse-db@^1.0.30001338":
+  "integrity" "sha512-tB+B9Qe9uWx1vJvfSjHlvZ5LNUtvavY98l++SJ8aYiZ6THxJCPxS14z1HVuTZ2sAUaHfvgHKcpby0TV6yXhyzA=="
+  "resolved" "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001338.tgz"
+  "version" "1.0.30001338"
 
 "caniuse-lite@^1.0.30000748", "caniuse-lite@^1.0.30000792":
   "integrity" "sha512-5yBd5nWCBS+jWKTcHOzXwo5xzcj4ePE/yjtkZyUV1BTUmrBaA9MRGC+e7mxnqXSA90CmCA8L3eKLaSUkt099IQ=="
