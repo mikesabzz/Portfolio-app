@@ -55,30 +55,24 @@
     color: white;
     text-decoration: none;
 }
-@media only screen and (max-width: 600px){
+/* Mobile Styles */
+@media only screen and (max-width: 600px) {
     .projects-each {
-        width: 110vh;
-        height: 140vh;
-        margin-left: -9pc;
+        width: 90vw;
+        margin: 20px auto;
     }
+
     .project-info {
-        display: flex;
-        flex-direction: column;
-        margin-left: 20px;
-        width: 800px;
-        height: auto;
-        font-size: 32px;
-        font-family: 'Kanit', sans-serif;
-        color: black;
+        font-size: 4vw;
+        margin-left: 0;
+        width: 100%; /* Adjust width for mobile */
     }
+
     .image-wrapper img {
-        display: flex;
-        height: 85vh;
+        height: auto;
         padding: 20px;
         margin-top: 20px;
     }
-
-    
 }
 
 

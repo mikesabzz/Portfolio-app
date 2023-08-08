@@ -8,18 +8,21 @@ html {
     display: grid;
     grid-gap: 20px;
     grid-template-columns: 1fr 1fr;
-    width: 10%;
+    width: 100%; /* Adjust width for mobile responsiveness */
 }
 .projects {
     display: flex;
-    justify-content: space-evenly;
-    margin: 10%;
-    flex: 1;
+    justify-content: center; /* Center projects horizontally */
+    align-items: center; /* Center projects vertically */
+    flex-wrap: wrap; /* Allow projects to wrap on smaller screens */
+    margin: 10px; /* Adjust margin for mobile */
+    padding: 10px; /* Adjust padding for mobile */
 }
-.page-body {
+.page-body, .about-me-body, .projects-body {
     box-shadow: 0 0 10px rgb(0, 0, 0);
-    margin: 2pc;
+    margin: 2% 2%; /* Adjust margins for mobile */
     background-color: white;
+    padding: 1ch; /* Adjust padding for mobile */
 }
 .html-body {
     padding-top: 2pc;
@@ -27,31 +30,19 @@ html {
     background-attachment: fixed;
     background-image: linear-gradient(to right top, #052d55, #15406f, #23548a, #3069a7, #3d7fc4, #3491d7, #25a4ea, #00b7fb, #00c9fa, #00d7de, #00e0a8, #1be462);
 }
-.about-me-body {
-    box-shadow: 0 0 10px rgb(0, 0, 0);
-    margin: 2pc;
-    background-color: white;
-}
-.projects-body {
-    box-shadow: 0 0 10px rgb(0, 0, 0);
-    margin: 5pc;
-    background-color: white;
-    padding-top: 1ch;
-    padding-bottom: .5pc;
-}
 @media only screen and (max-width: 400px) {
     #project-container {
-        display: flex;
-        flex-direction: column;
+        width: 100%; /* Adjust width for mobile */
     }
+    
     .html-body {
-        width: 114vh;
+        width: 100%; /* Adjust width for mobile */
     }
     
     .projects {
-        margin-right: 120pc;
+        margin: 10px; /* Adjust margin for mobile */
     }
-  }
+}
 
 
 
