@@ -11,8 +11,9 @@
     "react-document-title": "^2.0.3",
     "react-dom": "^16.9.0",
     "react-icons": "^4.2.0",
-    "react-router-dom": "^5.0.1",
-    "react-scripts": "^1.1.5"
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "^1.1.5",
+    "react-scroll": "^1.9.0"
   },
   "scripts": {
     "start": "react-scripts start",

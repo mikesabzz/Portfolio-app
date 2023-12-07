@@ -54,7 +54,9 @@ class App extends React.Component {
             <div id="project-container">{this.renderProjects()}</div>
           </div>
         </div>
+        <div className="footer-body">
           <Footer />
+        </div>
       </div></DocumentTitle>
     );
   }
