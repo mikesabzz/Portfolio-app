@@ -1,11 +1,7 @@
 import React from "react";
-import { Link as ScrollLink } from "react-scroll";
+import { Link } from "react-scroll";
 
 class Navbar extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {};
-  }
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -13,7 +9,7 @@ class Navbar extends React.Component {
           <div className="navbar-collapse">
             <ul className="navbar-nav mr-auto">
               <li className="nav-item">
-                <ScrollLink
+              <Link
                   className="nav-link text-white font-weight-bold btn btn-outline-secondary"
                   to="about-me"
                   spy={true}
@@ -21,12 +17,12 @@ class Navbar extends React.Component {
                   duration={500}
                 >
                   About Me
-                </ScrollLink>
+                </Link>
               </li>
             </ul>
             <ul className="navbar-nav mx-auto">
               <li className="nav-item">
-                <ScrollLink
+                <Link
                   className="nav-link text-white font-weight-bold btn btn-outline-secondary"
                   to="project-container"
                   spy={true}
@@ -34,12 +30,12 @@ class Navbar extends React.Component {
                   duration={500}
                 >
                   Projects
-                </ScrollLink>
+                </Link>
               </li>
             </ul>
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
-                <ScrollLink
+                <Link
                   className="nav-link text-white font-weight-bold btn btn-outline-secondary"
                   to="footer"
                   spy={true}
@@ -47,7 +43,7 @@ class Navbar extends React.Component {
                   duration={500}
                 >
                   Contact
-                </ScrollLink>
+                </Link>
               </li>
             </ul>
           </div>

@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import AboutMe from "./components/AboutMe";
 import DocumentTitle from "react-document-title";
+import { Element } from "react-scroll";
 
 class App extends React.Component {
   constructor(props) {
@@ -29,11 +30,17 @@ class App extends React.Component {
         <div>
           <Navbar />
           <Header />
-          <AboutMe />
-          <div className="container">
-            <div className="row">{this.renderProjects()}</div>
-          </div>
-          <Footer />
+          <Element name="about-me">
+            <AboutMe />
+          </Element>
+          <Element name="project-container">
+            <div className="container">
+              <div className="row">{this.renderProjects()}</div>
+            </div>
+          </Element>
+          <Element name="footer">
+            <Footer />
+          </Element>
         </div>
       </DocumentTitle>
     );

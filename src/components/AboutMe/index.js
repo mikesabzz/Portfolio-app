@@ -4,8 +4,8 @@ function AboutMe() {
   return (
     <div className="container-fluid mt-5">
       <div className="row">
-        <div className="col-lg-6 mx-auto">
-          <div className="about-me-text">
+        <div className="col-md-8 col-lg-6 mx-auto border p-4">
+          <div className="about-me-text border-bottom mb-4 pb-4">
             <h2>About Me</h2>
             <p className="lead">
               Software engineer with a background in front-end technology.

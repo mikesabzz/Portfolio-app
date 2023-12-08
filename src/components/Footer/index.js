@@ -1,7 +1,6 @@
 import React from "react";
 import Resume from "./img/resume.png";
 import "bootstrap/dist/css/bootstrap.min.css";
-// import "./Footer.css"
 import { FiMail } from "react-icons/fi";
 import { AiFillPhone } from "react-icons/ai";
 
@@ -53,39 +52,38 @@ function Footer() {
             </form>
           </div>
           <div className="col-md-6 d-flex flex-column">
-  <hr className="text-light" />
-  <ul className="list-unstyled d-flex flex-column flex-md-row">
-    <li className="text-light mb-2">
-      <FiMail />{" "}
-      <a href="mailto:michaelsabzevari@gmail.com" className="text-light font-weight-bold">
-        michaelsabzevari@gmail.com
-      </a>
-    </li>
-    <li className="text-light mb-2">
-      <AiFillPhone />{" "}
-      <a className="text-light font-weight-bold" href="tel:5169985096">
-        (516) 998-5096
-      </a>
-    </li>
-    <li className="text-light mb-2">
-      <a className="text-light font-weight-bold" href="https://www.linkedin.com/in/michael-sabzevari-539805131/" target="_blank">
-        LinkedIn
-      </a>
-    </li>
-    <li className="text-light mb-2">
-      <a className="text-light font-weight-bold" href="https://github.com/mikesabzz" target="_blank">
-        GitHub
-      </a>
-    </li>
-    <li className="text-light">
-      <a className="text-light font-weight-bold" href={Resume} target="_blank">
-        Resumé
-      </a>
-    </li>
-  </ul>
-  <hr className="text-light" />
-</div>
-
+            <hr className="text-light" />
+            <ul className="list-unstyled d-flex flex-column">
+              <li className="text-light mb-2">
+                <FiMail />{" "}
+                <a href="mailto:michaelsabzevari@gmail.com" className="text-light font-weight-bold">
+                  michaelsabzevari@gmail.com
+                </a>
+              </li>
+              <li className="text-light mb-2">
+                <AiFillPhone />{" "}
+                <a className="text-light font-weight-bold" href="tel:5169985096">
+                  (516) 998-5096
+                </a>
+              </li>
+              <li className="text-light mb-2">
+                <a className="text-light font-weight-bold" href="https://www.linkedin.com/in/michael-sabzevari-539805131/" target="_blank">
+                  LinkedIn
+                </a>
+              </li>
+              <li className="text-light mb-2">
+                <a className="text-light font-weight-bold" href="https://github.com/mikesabzz" target="_blank">
+                  GitHub
+                </a>
+              </li>
+              <li className="text-light mb-2">
+                <a className="text-light font-weight-bold" href={Resume} target="_blank">
+                  Resumé
+                </a>
+              </li>
+            </ul>
+            <hr className="text-light" />
+          </div>
         </div>
       </div>
     </article>
