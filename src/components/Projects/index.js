@@ -9,7 +9,7 @@ function Projects(props) {
         <img src={imgURL} className="card-img-top img-fluid" alt={Title} />
       </a>
       <div className="card-body">
-        <h5 className="card-title">{Title}</h5>
+        <a href={URL} target="_blank" rel="noopener noreferrer"className="card-title"><h5>{Title}</h5></a>
         <p className="card-text">{Desc}</p>
         <a href={Code} className="btn btn-primary" target="_blank" rel="noopener noreferrer">
           See My Code
