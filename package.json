@@ -6,14 +6,15 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "caniuse-db": "^1.0.30001338",
-    "react": "^16.9.0",
+    "react": "^16.14.0",
     "react-bootstrap-icons": "^1.5.0",
     "react-document-title": "^2.0.3",
     "react-dom": "^16.9.0",
     "react-icons": "^4.2.0",
     "react-router-dom": "^5.3.4",
     "react-scripts": "^1.1.5",
-    "react-scroll": "^1.9.0"
+    "react-scroll": "^1.9.0",
+    "scroll": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

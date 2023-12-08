@@ -14,7 +14,7 @@ function Header() {
             />
           </div>
           <div className="col-lg-6">
-            <div className="title typewriter">
+            <div className="title">
               <h1 className="display-4 mb-3">Hi, I'm Michael Sabzevari!</h1>
               <h2 className="lead">Software Engineer in NYC</h2>
             </div>
