@@ -30,42 +30,42 @@
     {
       "imgURL": "https://imgur.com/fnyK0We.png",
       "Title": "Tinder Friendly",
-      "Desc": "A full-stack CRUD app with login and sign up functionality using React and Node.js that allows you to create, update and delete your profile. This is an App that allows you to talk about yourself, see what other users say about themselves, and see who's in your location and meet people.",
+      "Desc": "An app where you can share about yourself, like a profile, and connect with people who share your interests. You can sign up, log in, and update your profile using React and Node.js. It's a bit like a Tinder clone, but focused on finding and connecting with people who have similar interests. You can also check out what others are saying about themselves and discover people nearby.",
       "URL": "https://express-tinder-clone-app.surge.sh/",
       "Code": "https://github.com/mikesabzz/Express-tinder-clone"
     },
     {
       "imgURL": "https://i.pinimg.com/originals/08/ef/75/08ef75cf7a83dcf8a2ff05a8a984e39c.gif",
       "Title": "Magic 8 Ball",
-      "Desc": "A HTML, CSS, CSS Animation, and JavaScript toy app used for fortune telling and seeking advice. Ask a yes/no question, then it reveals a written answer",
+      "Desc": "An HTML, CSS, CSS Animation, and JavaScript toy app used for fortune telling and seeking advice. Ask a close ended question, and let it reveal a written answer",
       "URL": "https://js-fortune-teller-ball.netlify.com/",
       "Code": "https://github.com/mikesabzz/js-fortune-ball"
     },
     {
       "imgURL": "https://imgur.com/BVyiOCe.png",
       "Title": "Balloon Pop",
-      "Desc": "A simple web app exercise using Vanilla JavaScript, DOM, and event handling. Click the balloons to pop them, and must pop 10 balloons to finish the game.",
+      "Desc": "A simple web game exercise using Vanilla JavaScript, DOM, and event handling. Click the balloons to pop them, and must pop 10 balloons to finish the game.",
       "URL": "https://balloon-pop.netlify.com/",
       "Code": "https://github.com/mikesabzz/balloon_pop"
     },
     {
       "imgURL": "https://imgur.com/HQLGU4N.gif",
       "Title": "React Calculator",
-      "Desc": "Web based and mobile responsive calculator with React and styled with Bootstrap. Click 'First Input' to type what you want in the first input, then click 'Second Input' for the second input. Finally, click any of the operators to get the result.",
+      "Desc": "Web based and mobile responsive calculator with React and styled with Bootstrap.",
       "URL": "http://react-calculator-by-ms.surge.sh/",
       "Code": "https://github.com/mikesabzz/calculator-app"
     },
     {
       "imgURL": "https://imgur.com/ZKqy96p.gif",
       "Title": "Lyrics and iTunes App",
-      "Desc": "A front end react applications that uses two third-party-API's (Lyrics and iTunes), which allows you to search for any artists and song titles, then presents the lyrics and iTunes preview audio (if available), of the searched song. This app has been styled with Flexbox and Bootstrap.",
+      "Desc": "Designed a user-friendly React app for exploring song lyrics and iTunes previews. The app utilizes two external APIs for artist and song searches. It displays lyrics and provides a preview of the song from iTunes if available. The user interface is styled for a clean look using Flexbox and Bootstrap.",
       "URL": "http://lyricsfinder.surge.sh/",
       "Code": "https://github.com/mikesabzz/lyrics-itune-app"
     },
     {
       "imgURL": "https://imgur.com/ZsU5jCD.png",
       "Title": "Twitter Clone",
-      "Desc": "A fullstack, remake of Twitter with ExpressJS, SQL, and React. PassportJS is used to build out the API that provides authentication functionality. Also has create, read, update, and delete functionalities. Includes uploading images, made with multer and stored in Cloudinary. Styled with Bootstrap, Flexbox, and CSS Animations.",
+      "Desc": "Built a Twitter clone using ExpressJS, SQL, and React. Used PassportJS to create a secure login system. Added features for creating, reading, updating, and deleting posts. Enabled image uploads using multer, with storage on Cloudinary. Styled the application for a polished look using Bootstrap, Flexbox, and CSS Animations.",
       "URL": "https://twitter-clone-by-sabz.surge.sh",
       "Code": "https://github.com/mikesabzz/twitter-clone"
     }
