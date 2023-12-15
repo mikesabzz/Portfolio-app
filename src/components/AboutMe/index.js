@@ -8,12 +8,7 @@ function AboutMe() {
           <div className="about-me-text border-bottom mb-4 pb-4">
             <h2>About Me</h2>
             <p className="lead">
-              Software engineer with a background in front-end technology.
-              Passionate about media and programming, I solve problems using
-              languages such as JavaScript, React, and other front-end
-              modalities. Constantly building my programming skills through
-              work and personal projects, I thrive when developing new software
-              and working on teams where I am pushed as a developer.
+              I'm a software engineer with a diverse skill set in programming. I excel in Angular and React for front-end work, SQL and MongoDB for managing databases, and I'm adept at Express.js, Java, and Python for back-end development. I'm passionate about both media and programming and am always eager to learn, staying current with the latest trends and advancements in software development.
             </p>
           </div>
 
