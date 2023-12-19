@@ -17,11 +17,32 @@ class App extends React.Component {
   }
 
   renderProjects = () => {
-    return this.state.projectsToDisplay.map((project, index) => (
-      <div key={index} className="col-lg-4 col-md-6 mb-4">
-        <Projects project={project} />
+    const projectsByStack = {};
+
+    // Group projects by Stack
+    this.state.projectsToDisplay.forEach((project) => {
+      const stack = project.Stack;
+      if (!projectsByStack[stack]) {
+        projectsByStack[stack] = [];
+      }
+      projectsByStack[stack].push(project);
+    });
+    return (
+      <div className="container">
+        {Object.keys(projectsByStack).map((stack, index) => (
+          <div key={index}>
+            <h2 className="bg-secondary text-white text-center">{stack}</h2>
+            <div className="row">
+              {projectsByStack[stack].map((project, projectIndex) => (
+                <div key={projectIndex} className="col-lg-4 col-md-6 mb-4">
+                  <Projects project={project} />
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
       </div>
-    ));
+    );
   };
 
   render() {
