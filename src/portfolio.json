@@ -67,7 +67,7 @@
       "imgURL": "https://imgur.com/ZKqy96p.gif",
       "Title": "Lyrics and iTunes App",
       "Desc": "Designed a user-friendly React app for exploring song lyrics and iTunes previews. The app utilizes two external APIs for artist and song searches. It displays lyrics and provides a preview of the song from iTunes if available. The user interface is styled for a clean look using Flexbox and Bootstrap.",
-      "URL": "http://lyricsfinder.surge.sh/",
+      "URL": "https://lyricsfinder.onrender.com/",
       "Code": "https://github.com/mikesabzz/lyrics-itune-app",
       "Stack": "Front-End"
     },
