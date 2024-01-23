@@ -8,6 +8,8 @@ import AboutMe from "./components/AboutMe";
 import DocumentTitle from "react-document-title";
 import { Element } from "react-scroll";
 
+// If app is down https://twitter-clone-by-sabz.surge.sh/
+
 class App extends React.Component {
   constructor(props) {
     super(props);
