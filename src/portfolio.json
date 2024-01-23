@@ -51,7 +51,7 @@
       "imgURL": "https://imgur.com/ZsU5jCD.png",
       "Title": "Twitter Clone",
       "Desc": "Built a Twitter clone using ExpressJS, SQL, and React. Used PassportJS to create a secure login system. Added features for creating, reading, updating, and deleting posts. Enabled image uploads using multer, with storage on Cloudinary. Styled the application for a polished look using Bootstrap, Flexbox, and CSS Animations.",
-      "URL": "https://twitter-clone-by-sabz.surge.sh",
+      "URL": "https://twitter-clone-client-three.vercel.app",
       "Code": "https://github.com/mikesabzz/twitter-clone",
       "Stack": "Fullstack"
     },
