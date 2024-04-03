@@ -56,7 +56,7 @@
       "Stack": "Fullstack"
     },
     {
-      "imgURL": "https://imgur.com/YiLUPrC.png",
+      "imgURL": "https://imgur.com/wZY4S9b.png",
       "Title": "Library Management System",
       "Desc": "Angular App. Reserve your favorite books with a click. Once you choose a book, a pop-up asks for your full name and library card number, and ensures a reservation. Please note, it's currently using mock data, and the backend Java code is undergoing maintenance for future improvements.",
       "URL": "https://library-management-demo.vercel.app/home",
