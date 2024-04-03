@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "./img/resume.png";
+import Resume from "./img/resume.jpg";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FiMail } from "react-icons/fi";
 import { AiFillPhone } from "react-icons/ai";
@@ -67,12 +67,12 @@ function Footer() {
                 </a>
               </li>
               <li className="text-light mb-2">
-                <a className="text-light font-weight-bold" href="https://www.linkedin.com/in/michael-sabzevari-539805131/" target="_blank">
+                <a className="text-light font-weight-bold" href="https://www.linkedin.com/in/michael-sabzevari-539805131/" target="_blank" rel="noopener noreferrer">
                   LinkedIn
                 </a>
               </li>
               <li className="text-light mb-2">
-                <a className="text-light font-weight-bold" href="https://github.com/mikesabzz" target="_blank">
+                <a className="text-light font-weight-bold" href="https://github.com/mikesabzz" target="_blank" rel="noopener noreferrer">
                   GitHub
                 </a>
               </li>
