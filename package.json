@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.7.2",
     "bootstrap": "^4.4.1",
     "caniuse-db": "^1.0.30001338",
     "react": "^16.14.0",
@@ -12,7 +12,7 @@
     "react-dom": "^16.9.0",
     "react-icons": "^4.2.0",
     "react-router-dom": "^5.3.4",
-    "react-scripts": "^1.1.5",
+    "react-scripts": "^5.0.1",
     "react-scroll": "^1.9.0",
     "scroll": "^3.0.1"
   },

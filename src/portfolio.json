@@ -62,5 +62,13 @@
       "URL": "https://library-management-demo.vercel.app/home",
       "Code": "https://github.com/mikesabzz/Library-Management-System-UI",
       "Stack": "Front-End"
+    },
+    {
+      "imgURL": "https://imgur.com/QM1OYLQ.png",
+      "Title": "Generate Art React App",
+      "Desc": "An application that generates artwork by placing characters designed by BoazNYC onto random background images. This project was created specifically for the BoazNYC Art Den event, showcasing unique combinations of characters and backgrounds to create diverse pieces of art.",
+      "URL": "https://generate-art-boaznyc.surge.sh/",
+      "Code": "https://github.com/mikesabzz/generative-art-app",
+      "Stack": "Front-End"
     }
    ]
