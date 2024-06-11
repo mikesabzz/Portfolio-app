@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "./img/resume.jpg";
+// import Resume from "./img/resume.jpg";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { FiMail } from "react-icons/fi";
 import { AiFillPhone } from "react-icons/ai";
@@ -77,7 +77,7 @@ function Footer() {
                 </a>
               </li>
               <li className="text-light mb-2">
-                <a className="text-light font-weight-bold" href={Resume} target="_blank">
+                <a className="text-light font-weight-bold" href={`${process.env.PUBLIC_URL}/resume.pdf`}  target="_blank">
                   Resumé
                 </a>
               </li>
